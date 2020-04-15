@@ -18,7 +18,7 @@
     "graphql-date": "^1.0.3",
     "graphql-tools": "^1.1.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^4.11.3"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
